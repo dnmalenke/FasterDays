@@ -1,0 +1,1 @@
+Days will pass by faster as time progresses. Normal difficulty or higher

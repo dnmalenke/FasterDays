@@ -1,0 +1,7 @@
+{
+    "name": "FasterDays",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/dnmalenke",
+    "description": "Days will pass by faster as time progresses. Normal difficulty or higher",
+    "dependencies": ["BepInEx-BepInExPack_Muck-5.4.1101"]
+}
